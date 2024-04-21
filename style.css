@@ -9,6 +9,7 @@ body{
   justify-content: center;
   font-family: Poppins;
   height: auto;
+  background-color: hsl(0, 0%, 98%);
 }
 .outer{
   width: 80%;
